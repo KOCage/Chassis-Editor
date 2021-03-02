@@ -1,0 +1,12 @@
+D:\Code Ground\Chassis Editor\Chassis Editor\bin\Debug\Chassis Editor.exe.config
+D:\Code Ground\Chassis Editor\Chassis Editor\bin\Debug\Chassis Editor.exe
+D:\Code Ground\Chassis Editor\Chassis Editor\bin\Debug\Chassis Editor.pdb
+D:\Code Ground\Chassis Editor\Chassis Editor\bin\Debug\Newtonsoft.Json.dll
+D:\Code Ground\Chassis Editor\Chassis Editor\bin\Debug\Newtonsoft.Json.xml
+D:\Code Ground\Chassis Editor\Chassis Editor\obj\Debug\Chassis Editor.csprojAssemblyReference.cache
+D:\Code Ground\Chassis Editor\Chassis Editor\obj\Debug\Chassis_Editor.MainWindow.resources
+D:\Code Ground\Chassis Editor\Chassis Editor\obj\Debug\Chassis_Editor.Properties.Resources.resources
+D:\Code Ground\Chassis Editor\Chassis Editor\obj\Debug\Chassis Editor.csproj.GenerateResource.cache
+D:\Code Ground\Chassis Editor\Chassis Editor\obj\Debug\Chassis Editor.csproj.CopyComplete
+D:\Code Ground\Chassis Editor\Chassis Editor\obj\Debug\Chassis Editor.exe
+D:\Code Ground\Chassis Editor\Chassis Editor\obj\Debug\Chassis Editor.pdb
